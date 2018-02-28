@@ -1,5 +1,5 @@
 /*
- * hw2.c
+ * Sudoku-Game-Checker.c
  *
  *  Created on: Feb 25, 2018
  *      Author: hieptran1208
